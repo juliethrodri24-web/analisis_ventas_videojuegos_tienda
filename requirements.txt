@@ -1,0 +1,12 @@
+pandas 
+numpy 
+plotly.express 
+matplotlib 
+seaborn 
+scipy 
+stats
+math 
+math 
+factorial
+scipy.stats 
+matplotlib.pyplot 
